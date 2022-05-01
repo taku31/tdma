@@ -1,0 +1,3 @@
+# tdma
+
+Tridiagonal matrix algorithm
